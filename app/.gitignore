@@ -1,0 +1,12 @@
+# Ignore Gradle build files
+/build
+.gradle
+/local.properties
+
+# Ignore Firebase config file
+app/google-services.json
+
+# Ignore OS-specific files
+.DS_Store
+.idea
+.vscode
